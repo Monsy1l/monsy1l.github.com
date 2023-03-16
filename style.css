@@ -1,0 +1,48 @@
+body { 
+    background: linear-gradient(#2b5876, #4e4376);
+    font-family: Arial;
+    min-height: 100vh;
+}
+ 
+img {
+    width: 400px;
+    border-radius: 20px;
+}
+
+p {
+    width: 400px;
+}
+
+.btn {
+    color: #fff;
+    font-size: 18px;
+    background: #e52d27;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #5da2ff;
+}
+
+.wrapper {
+    width: 400px;
+    background: #fff;
+    margin: 0 auto;
+    padding: 20px 100px;
+    border-radius: 15px;
+}
+
+.menu__link {
+    text-decoration: none;
+    color: #499687;
+    margin-right: 30px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.menu__link:hover {
+    color: #ff4d4d;
+}
